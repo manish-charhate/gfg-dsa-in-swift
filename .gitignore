@@ -89,3 +89,4 @@ fastlane/test_output
 
 iOSInjectionProject/
 LinkedList/InsertAtTheEnd.playground/contents.xcplayground
+*.xcplayground
